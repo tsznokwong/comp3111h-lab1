@@ -1,1 +1,5 @@
-WONG, Tsz Nok Joshua 20506440
+Name: WONG, Tsz Nok Joshua
+
+ID: 20506440
+
+![](./Screenshot.png)
